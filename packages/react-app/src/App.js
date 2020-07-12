@@ -39,6 +39,7 @@ function App() {
   const [ipfsHash, setIpfsHash] = useState("");
   useEffect(() => {
     initIpfs();
+    window.ethereum.enable();
   }, []);
 
   useEffect(() => {
