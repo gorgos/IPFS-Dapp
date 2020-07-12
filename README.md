@@ -5,5 +5,5 @@ This project was bootstrapped with [Create Eth App](https://github.com/paulrberg
 Start with
 
 ```bash
-$ react-app:start
+$ yarn react-app:start
 ```
