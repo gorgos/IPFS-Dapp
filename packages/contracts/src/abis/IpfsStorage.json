@@ -1,0 +1,16 @@
+[
+  {
+    "inputs": [{ "internalType": "string", "name": "file", "type": "string" }],
+    "name": "setFile",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "internalType": "address", "name": "", "type": "address" }],
+    "name": "userFiles",
+    "outputs": [{ "internalType": "string", "name": "", "type": "string" }],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
